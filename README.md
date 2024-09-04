@@ -11,3 +11,4 @@
 - axios
 - element-plus
 - less
+- tailwindcss

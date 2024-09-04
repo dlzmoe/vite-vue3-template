@@ -3,6 +3,8 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 
+import './index.css';
+
 import ElementPlus from 'element-plus';
 import 'element-plus/dist/index.css';
 import '@/assets/style/element-variables.scss';
